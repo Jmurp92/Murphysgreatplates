@@ -1,0 +1,10 @@
+h1 {
+    color: blueviolet;
+}
+p{
+    background-color: blanchedalmond;
+}
+div{
+    display: flex;
+    flex-direction: row;
+}
